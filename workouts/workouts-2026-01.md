@@ -6,6 +6,3 @@ Bench Press
 
 Cable Flyes
 - 30 - 12, 12, 12
-
-Pull-ups // test entry
-- 10, 10, 10
