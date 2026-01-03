@@ -6,3 +6,10 @@ Bench Press
 
 Cable Flyes
 - 30 - 12, 12, 12
+
+Bench Press
+- 135 - 10 // warmup
+- 200 - 5, 5, 5, 5
+
+Treadmill
+- 45m
